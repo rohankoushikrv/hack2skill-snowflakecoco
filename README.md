@@ -21,7 +21,7 @@ A Streamlit app powered by a Snowflake Cortex Agent that unifies structured EHR/
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/<your-username>/health-copilot-app.git
+   git clone https://github.com/rohankoushikrv/hack2skill-snowflakecoco.git/health-copilot-app.git
    cd health-copilot-app
    ```
 
